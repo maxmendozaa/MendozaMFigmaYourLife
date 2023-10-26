@@ -1,0 +1,59 @@
+.body {
+    background-image: url("../assests/IMG-5553.jpg");
+    background-size: cover;
+}
+
+.body2 {
+    background-image: url("../assests/IMG-4781-jpg.jpg");
+    background-size: cover;
+}
+
+.body3 {
+    background-image: url("../assests/IMG-1310\ \(1\).jpg");
+    background-size: cover;
+}
+
+h1 {
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 60px;
+}
+
+div {
+    padding: 20px;
+}
+
+.interestList {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    font-size: 30px;
+    color: white;
+}
+
+
+.button {
+    background-color: lightblue;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .button2 {
+        position: absolute;bottom: 0%;
+        color: black;
+        background-color: blanchedalmond;
+        border: none;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+  }
